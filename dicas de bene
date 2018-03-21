@@ -1,2 +1,4 @@
 usuario tems pedidos superfulos
 usuario gera muitos req. conflitantes(pior em ownership compartilhado)
+ter em mente os riscos do sistema
+calcular os esforços para o req.(como um todo)
