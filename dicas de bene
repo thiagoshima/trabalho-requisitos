@@ -1,0 +1,2 @@
+usuario tems pedidos superfulos
+usuario gera muitos req. conflitantes(pior em ownership compartilhado)
